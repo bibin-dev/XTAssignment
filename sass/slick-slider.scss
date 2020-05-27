@@ -1,0 +1,91 @@
+/* Tiny Carousel */
+.schedule-details {
+    .viewport {
+      height: 325px !important;
+    }
+    #slider1 {
+      .prev {
+        margin: 110px 10px 0 0;
+      }
+      .next {
+        margin: 110px 10px 0 0;
+      }
+    }
+  }
+  #slider1, #slider2, #slider3 {
+    height: 400px;
+    overflow: hidden;
+    padding: 0 0 10px;
+    .viewport {
+      float: left;
+      height: 400px;
+      overflow: hidden;
+      position: relative;
+      .course-block {
+        float: left;
+        height: 200px;
+        margin: 0 20px 0 0;
+        padding: 1px;
+        width: 248px;
+      }
+    }
+    .slick-arrow {
+      background: url("../images/buttons.png") no-repeat scroll 0 0 transparent;
+      display: block;
+      margin: 13px 10px 0 0;
+      background-position: 0 -38px;
+      text-indent: -999em;
+      float: left;
+      width: 39px;
+      height: 37px;
+      overflow: hidden;
+      position: relative;
+    }
+    .slick-prev:before{
+      content: "";
+    }
+    .slick-next {
+      background-position: 0 0;
+      margin: 205px 0 0px 42px;
+      &:before {
+        content: "";
+      }
+    }
+    .disable {
+      visibility: hidden;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    #slider1, #slider2, #slider3 {
+      .buttons {
+        background: url("../images/buttons.png") no-repeat scroll 0 0 transparent;
+        display: block;
+        margin: 30px 10px 0 0;
+        background-position: 0 -38px;
+        text-indent: -999em;
+        float: left;
+        width: 39px;
+        height: 37px;
+        overflow: hidden;
+        position: relative;
+      }
+      .viewport {
+        float: left;
+        width: 91%;
+        height: 390px;
+        overflow: hidden;
+        position: relative;
+        margin-left: 7%;
+      }
+      .next {
+        background-position: 0 0;
+        margin: 0px 0 30px 10px;
+      }
+    }
+    .schedule-details {
+      .viewport {
+        height: 300px !important;
+      }
+    }
+  }
+  

@@ -1,0 +1,19 @@
+{
+  "name": "yardstick_7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "node-sass": "^4.14.1",
+    "path": "^0.12.7"
+  }
+}

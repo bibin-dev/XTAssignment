@@ -1,0 +1,174 @@
+{
+  "nav_links": [
+    {
+      "title": "Home",
+      "text": "Home",
+      "display": true
+    },
+    {
+      "title": "Course",
+      "text": "Course",
+      "display": true
+    },
+    {
+      "title": "Profile",
+      "text": "Profile",
+      "display": true
+    }
+  ],
+  "buttons": {
+    "signIn": {
+      "display": true,
+      "text": "Sign In",
+      "title": "Sign In"
+    },
+    "documentation": {
+      "display": true,
+      "text": "Documentation",
+      "title": "Documentation"
+    },
+    "viewPages": {
+      "display": true,
+      "text": "View All Pages",
+      "title": "View All Pages"
+    },
+    "search": {
+      "display": true,
+      "text": "Search",
+      "title": "Search"
+    },
+    "register": {
+      "display": true,
+      "text": "Register",
+      "title": "Register"
+    }
+  },
+  "marketing": [
+    {
+      "title": "Conversations",
+      "desc": "Master the basics of the beautiful French language. Converse in French and practice the subtle..."
+    },
+    {
+      "title": "Analytics",
+      "desc": "Master the basics of the beautiful French language. Converse in French and practice the subtle..."
+    },
+    {
+      "title": "Unified",
+      "desc": "Master the basics of the beautiful French language. Converse in French and practice the subtle..."
+    },
+    {
+      "title": "Permissions",
+      "desc": "Master the basics of the beautiful French language. Converse in French and practice the subtle..."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Paula Wilson",
+      "designation": "Media Analyst",
+      "desc": "Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque tempor, varius quam luctus dui. Mauris magna metus nec."
+    },
+    {
+      "name": "Jane Doe",
+      "designation": "Sales Analyst",
+      "desc": "Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque tempor, varius quam luctus dui. Mauris magna metus nec."
+    },
+    {
+      "name": "Bibin Joseph",
+      "designation": "Front End Engineer",
+      "desc": "Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque tempor, varius quam luctus dui. Mauris magna metus nec."
+    }
+  ],
+  "popular_courses": [
+    {
+      "show_best_seller": true,
+      "best_seller_img": "images/best-saller-1.png",
+      "main_img": "images/french-language-course.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    },
+    {
+      "show_best_seller": true,
+      "best_seller_img": "images/best-saller-2.png",
+      "main_img": "images/life-of-pi.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    },
+    {
+      "show_best_seller": true,
+      "best_seller_img": "images/best-saller-3.png",
+      "main_img": "images/time-keeper.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    },
+    {
+      "show_best_seller": true,
+      "best_seller_img": "images/best-saller-4.png",
+      "main_img": "images/time-keeper.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    },
+    {
+      "show_best_seller": false,
+      "best_seller_img": "",
+      "main_img": "images/time-keeper.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    },
+    {
+      "show_best_seller": false,
+      "best_seller_img": "",
+      "main_img": "images/time-keeper.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    },
+    {
+      "show_best_seller": false,
+      "best_seller_img": "",
+      "main_img": "images/time-keeper.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    },
+    {
+      "show_best_seller": false,
+      "best_seller_img": "",
+      "main_img": "images/time-keeper.png",
+      "title": "Let's Learn French- For Higher Grades",
+      "desc": "Master the basics of the beauti...",
+      "owner": "Denise Nolen"
+    }
+  ],
+  "footer_info": {
+    "products": {
+      "name": "Products",
+      "data": [
+        "Product 1",
+        "Product 2",
+        "Product 3"
+      ]
+    },
+    "links": {
+      "name": "Useful Links",
+      "data": [
+        "Your Account",
+        "Become An Affiliate",
+        "Shipping Rates"
+      ]
+    },
+    "contact": {
+      "name": "Contact",
+      "data": [
+        "India, NY 10012",
+        "info@example.com",
+        "+ 01 234 567 88",
+        "+ 01 234 567 89"
+      ]
+    }
+  }
+}
